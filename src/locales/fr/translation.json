@@ -1,0 +1,5 @@
+{
+  "welcomeMessage": "Bienvenue dans mon application!",
+  "greeting": "Bonjour, {{name}}!",
+  "buttonText": "Cliquez-moi"
+}
